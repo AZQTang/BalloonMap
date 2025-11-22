@@ -1,4 +1,4 @@
-# Global Sounding Balloons Tracker
+# Global Balloons Tracker
 
 An interactive web application to track global sounding balloons in real-time using Leaflet.js.
 
